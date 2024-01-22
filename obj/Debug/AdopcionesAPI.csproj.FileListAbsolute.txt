@@ -1,6 +1,3 @@
-C:\Users\fborbon\Documents\GitHub\adopciones-api\bin\MarketplaceAPI.dll.config
-C:\Users\fborbon\Documents\GitHub\adopciones-api\bin\MarketplaceAPI.dll
-C:\Users\fborbon\Documents\GitHub\adopciones-api\bin\MarketplaceAPI.pdb
 C:\Users\fborbon\Documents\GitHub\adopciones-api\bin\roslyn\csc.exe
 C:\Users\fborbon\Documents\GitHub\adopciones-api\bin\roslyn\csc.exe.config
 C:\Users\fborbon\Documents\GitHub\adopciones-api\bin\roslyn\csc.rsp
@@ -88,8 +85,10 @@ C:\Users\fborbon\Documents\GitHub\adopciones-api\bin\es\System.Web.Razor.resourc
 C:\Users\fborbon\Documents\GitHub\adopciones-api\bin\es\System.Web.WebPages.resources.dll
 C:\Users\fborbon\Documents\GitHub\adopciones-api\bin\es\System.Web.WebPages.Deployment.resources.dll
 C:\Users\fborbon\Documents\GitHub\adopciones-api\bin\es\System.Web.WebPages.Razor.resources.dll
-C:\Users\fborbon\Documents\GitHub\adopciones-api\obj\Debug\AdopcionesAPI.csproj.AssemblyReference.cache
 C:\Users\fborbon\Documents\GitHub\adopciones-api\obj\Debug\AdopcionesAPI.csproj.CoreCompileInputs.cache
 C:\Users\fborbon\Documents\GitHub\adopciones-api\obj\Debug\AdopcionesAPI.csproj.CopyComplete
-C:\Users\fborbon\Documents\GitHub\adopciones-api\obj\Debug\MarketplaceAPI.dll
-C:\Users\fborbon\Documents\GitHub\adopciones-api\obj\Debug\MarketplaceAPI.pdb
+C:\Users\fborbon\Documents\GitHub\adopciones-api\bin\AdopcionesAPI.dll.config
+C:\Users\fborbon\Documents\GitHub\adopciones-api\bin\AdopcionesAPI.dll
+C:\Users\fborbon\Documents\GitHub\adopciones-api\bin\AdopcionesAPI.pdb
+C:\Users\fborbon\Documents\GitHub\adopciones-api\obj\Debug\AdopcionesAPI.dll
+C:\Users\fborbon\Documents\GitHub\adopciones-api\obj\Debug\AdopcionesAPI.pdb
