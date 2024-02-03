@@ -10,50 +10,27 @@ namespace AdopcionesAPI.Controllers
 {
     public class CountryController : ApiController
     {
-        /*static List<Country> countries = new List<Country> {
-            new Country("Costa Rica"),
-            new Country("España"),
-            new Country("México"),
-            new Country("Panamá"),
-        };
 
-        public IEnumerable<Country> Get()
-        {
-            return countries;
-        }
-
-        public IEnumerable<Country> Put([From] Country country)
-        {
-            countries.Add(new Country(country.name));
-            return countries;
-        }
-
-        public IEnumerable<Country> Delete([FromBody] Country country)
-        {
-            countries.RemoveAll((Country c) => c.name.Equals(country.name));
-            return countries;
-        }*/
-
-        static List<string> countries = new List<string>()
+        static List<string> Countries = new List<string>()
         {
             "Costa Rica", "España", "Chile", "México", "Panamá"
         };
 
         public IEnumerable<string> Get()
         {
-            return countries;
+            return Countries;
         }
 
-        public IEnumerable<string> Put([FromBody] Country country)
+        public IEnumerable<string> Put([FromBody] Country Country)
         {
-            countries.Add(country.name);
-            return countries;
+            Countries.Add(Country.name);
+            return Countries;
         }
 
-        public IEnumerable<string> Delete(Country country)
+        public IEnumerable<string> Delete(Country Country)
         {
-            countries.RemoveAll((string c) => c.Equals(country.name));
-            return countries;
+            Countries.RemoveAll((string c) => c.Equals(Country.name));
+            return Countries;
         }
     }
 }
